@@ -1,0 +1,24 @@
+{
+  "name": "b1rdex/drom-test-task-1",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anatoly Pashin",
+      "email": "anatoly.pashin@gmail.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "functions.php"
+    ]
+  },
+  "require": {
+    "php": "^7.4",
+    "brick/math": "^0.8.15"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master",
+    "phpstan/phpstan": "^0.12.25"
+  }
+}
