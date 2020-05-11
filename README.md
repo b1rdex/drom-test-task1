@@ -31,5 +31,7 @@ php count.php путь-к-директории
 
 Использование:
 ```shell script
+composer test
+# или
 php test.php
 ```

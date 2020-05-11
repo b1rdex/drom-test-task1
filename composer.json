@@ -1,5 +1,6 @@
 {
   "name": "b1rdex/drom-test-task-1",
+  "description": "",
   "type": "project",
   "license": "MIT",
   "authors": [
@@ -20,5 +21,8 @@
   "require-dev": {
     "roave/security-advisories": "dev-master",
     "phpstan/phpstan": "^0.12.25"
+  },
+  "scripts": {
+    "test": "php test.php"
   }
 }
